@@ -1,14 +1,16 @@
 # org-not-included  
   
 This org contains a mix of opensource repositories.  
-
+   
+---  
+  
 ## Details  
   
 A few of the projects can be previewed at http://notincluded.org.  
 Others are described in tables below.
   
 ---  
-
+  
 ### Github Actions / PyPi Packages
   
 | Repository Name                                                          | Use Case                                                                              | Description                                                                                                                    |  
