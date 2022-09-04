@@ -1,11 +1,11 @@
 # org-not-included  
   
-This org contains a mix of opensource projects, which are described in tables below.
-Some of them can be previewed at http://notincluded.org.
+This org contains a mix of opensource projects, which are described in tables below.  
+Some of them can be previewed at http://notincluded.org.  
   
 ---  
   
-
+  
 ### Github Actions / PyPi Packages
   
 | Repository Name                                                          | type             | Use Case                                 | Description                                                                                                                    |  
