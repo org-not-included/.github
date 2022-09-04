@@ -13,7 +13,7 @@ Some of them can be previewed at http://notincluded.org.
 | [dbt_table_diff](https://github.com/org-not-included/dbt_table_diff)     | Github Action    | Run on Open Pull Requests                | Compares`dbt` tables in across `BigQuery schemas`, aka `dbt datasets`.                                                         |  
 | [dbt_example](https://github.com/org-not-included/dbt_example)           | .github/workflow | Example of using `dbt_table_diff`        | Shows how `dbt_table_diff` can be used to comment on an [Open dbt PR](https://github.com/org-not-included/dbt_example/pull/2). |  
 | [payment_parser](https://github.com/org-not-included/payment_parser)     | PyPi package     | File Transformation (fixed-width to csv) | Parses a fwf payment file into CSV files.                                                                                      |
-| [py-github-helper](https://github.com/org-not-included/py-github-helper) | PyPi package     | Trigger on Github events                 | Interacts with Github API.                                                                                                     |
+| [py-github-helper](https://github.com/org-not-included/py-github-helper) | PyPi package     | Trigger on Github events                 | Enables interaction with Github Repositories and Pull Requests.                                                                |
 
   
 ---  
