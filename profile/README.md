@@ -30,13 +30,3 @@ Some of them can be previewed at http://notincluded.org.
 | [search_completion](https://github.com/org-not-included/search_completion)                 | Learning Data Engineering (ETL Medium)   | Extracts Bag of Words from text file, loads into SQLite database, and returns most common words based on a prefix.                               |
 | [mlb-stats](https://github.com/org-not-included/mlb-stats)                                 | Learning Data Engineering (ETL Advanced) | Extracts game data from MLB Stats API, loads into SQLite database, and generates some charts.                                                    |  
   
-  
----  
-  
-  
-### Other
-  
-| Repository Name                                                                         | Use Case                  | Description                                                                                |  
-|-----------------------------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
-| [py-strftime](https://github.com/org-not-included/py-strftime)                          | Python Datetime Formatter | A fork of @lachlan-eagling's [py-strftime](https://github.com/lachlan-eagling/py-strftime) |  
-  
