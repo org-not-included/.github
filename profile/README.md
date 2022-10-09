@@ -28,5 +28,4 @@ Some of them can be previewed at http://notincluded.org.
 | [simple_flask_app](https://github.com/org-not-included/simple_flask_app)                   | Learning Flask (intro)                   | Creates a simple homepage using Flask, based of [this Youtube series](https://www.youtube.com/playlist?list=PLFtQkpylAzMAKJNId7GBrCG5yIncZivVL). |
 | [simple_analytics_pipeline](https://github.com/org-not-included/simple_analytics_pipeline) | Learning Data Engineering (ETL Intro)    | Uses Pandas to load CSV into SQLite database and queries database to create a simple chart.                                                      |
 | [search_completion](https://github.com/org-not-included/search_completion)                 | Learning Data Engineering (ETL Medium)   | Extracts Bag of Words from text file, loads into SQLite database, and returns most common words based on a prefix.                               |
-| [mlb-stats](https://github.com/org-not-included/mlb-stats)                                 | Learning Data Engineering (ETL Advanced) | Extracts game data from MLB Stats API, loads into SQLite database, and generates some charts.                                                    |  
-  
+
